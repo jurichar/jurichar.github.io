@@ -1,4 +1,4 @@
-// src/utils/workData.js
+// src/utils/workData.ts
 
 const workData = [
   {
