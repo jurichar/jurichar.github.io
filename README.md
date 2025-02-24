@@ -27,7 +27,7 @@
 
 ## Context 🌎
 
-In today's digital world, a simple CV does not suffice to highlight the range of projects and skills a developer possesses. This portfolio project is an attempt to solve that issue and provide an engaging, comprehensive overview of my work.
+Hosted on [jurichar.fr](https://jurichar.fr/), this portfolio is a showcase of my projects, skills, and professional background.
 
 ## Objective 🎯
 
