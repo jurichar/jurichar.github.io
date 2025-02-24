@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - yarn install --frozen-lockfile
+    - yarn build
