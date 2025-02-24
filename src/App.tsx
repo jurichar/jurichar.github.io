@@ -6,7 +6,6 @@ import About from "./Pages/About";
 import Navbar from "./components/Navbar";
 import Contact from "./Pages/Contact";
 import Works from "./Pages/Works";
-import React from "react";
 
 const App = () => {
   return (

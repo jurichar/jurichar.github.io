@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import DrawMe from "../components/DrawMe";
 import Tag from "../components/Tag";
 import { Link } from "react-router-dom";
-import React from "react";
 
 type ItemType = {
   duration: string;

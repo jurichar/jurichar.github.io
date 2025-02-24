@@ -5,7 +5,6 @@ import { IconProp } from "@fortawesome/fontawesome-svg-core";
 import { faGithubSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import DrawUnderline from "../components/DrawUnderline";
 import { Draw } from "../components/Draw";
-import React from "react";
 
 const icon = (name: IconProp, link: string, index: number) => {
   return (
