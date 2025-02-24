@@ -35,6 +35,19 @@ const icon = (name: IconProp, link: string, index: number) => {
 const Home = () => {
   return (
     <div className="text-white w-full h-[calc(100vh-10rem)] flex justify-center items-center pb-20 text-3xl">
+      <div className="sr-only">
+        <h1>Julien Richard - Software Engineer & Full Stack Developer</h1>
+        <h2>Professional Portfolio</h2>
+        <p>
+          Experienced software engineer specializing in full stack web
+          development, cloud solutions, and performance optimization. Expertise
+          in React.js, Python/Django, DevOps, and modern web technologies.
+        </p>
+        <p>
+          Based in Paris, France. Available for freelance projects and full-time
+          positions in software engineering and technical leadership roles.
+        </p>
+      </div>
       <motion.div
         initial={{ opacity: 0, scale: 0 }}
         transition={{ duration: 0.3, delay: 0.5 }}
